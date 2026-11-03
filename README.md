@@ -9,7 +9,7 @@ Caso de negocio sobre la rotación temprana de operarios de almacén en una empr
 | Archivo | Qué es |
 |---|---|
 | `presentacion_rotacion_temprana.html` | Presentación del caso (13 diapositivas). Descárgala y ábrela en el navegador, o publícala con GitHub Pages. |
-| `notebooks/preprocessing_data_ESAN.ipynb` | Limpieza de las bases de ingresos y ceses e ingeniería de variables para el modelo. |
+| `preprocessing_data_ESAN.ipynb` | Limpieza de las bases de ingresos y ceses e ingeniería de variables para el modelo. |
 
 ## El problema
 
