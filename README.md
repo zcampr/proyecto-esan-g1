@@ -46,7 +46,7 @@ Elegimos la regresión logística porque tuvo el mejor desempeño y es la más f
 
 ## Datos y confidencialidad
 
-Los datos son reales y pertenecen a la empresa, por eso **no se incluyen en este repositorio**. El notebook se publica sin las salidas de las celdas para no exponer información personal de los trabajadores. Para ejecutarlo se necesita el archivo original en `data/ingresos_ceses.xlsx`.
+Los datos son reales y pertenecen a la empresa, por eso **no se incluyen en este repositorio**.
 
 ## Herramientas
 
